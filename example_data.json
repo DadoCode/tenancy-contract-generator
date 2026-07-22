@@ -1,0 +1,51 @@
+{
+  "LANDLORD_FULL_NAME": "John Smith",
+  "LANDLORD_ADDRESS": "12 Baker Street, London, NW1 6XE",
+  "LANDLORD_EMAIL": "john.smith@example.com",
+  "LANDLORD_PHONE": "07700 900123",
+
+  "TENANT_1_FULL_NAME": "Jane Doe",
+  "TENANT_1_CURRENT_ADDRESS": "45 Elm Road, Manchester, M1 4BT",
+  "TENANT_1_EMAIL": "jane.doe@example.com",
+  "TENANT_1_PHONE": "07700 900456",
+  "TENANT_2_FULL_NAME": "Adam Doe",
+
+  "AGENT_EMAIL": "lettings@menapropertygroup.com",
+  "AGENT_PHONE": "020 7946 0958",
+
+  "PROPERTY_ADDRESS": "Flat 3, 27 Old Gloucester Street, London, WC1N 3AX",
+  "PROPERTY_REFERENCE": "CAPITAL-B1",
+  "PARKING_DETAILS": "Not included",
+  "FURNITURE_STATUS": "Furnished",
+  "SECTION_48_SERVICE_ADDRESS": "MENA PROPERTY GROUP LTD, 27 Old Gloucester Street, London, WC1N 3AX",
+
+  "TENANCY_START_DATE": "1 September 2026",
+  "MONTHLY_RENT": "2,400",
+  "DEPOSIT_AMOUNT": "2,769",
+  "RENT_PAYMENT_DAY": "1st",
+
+  "FIRST_RENT_AMOUNT": "2,400",
+  "FIRST_RENT_FROM_DATE": "1 September 2026",
+  "FIRST_RENT_TO_DATE": "30 September 2026",
+
+  "RESPONSIBLE_DEPOSIT_PARTY": "MENA PROPERTY GROUP LTD",
+  "DEPOSIT_HOLDER": "MENA PROPERTY GROUP LTD",
+  "PRESCRIBED_INFORMATION_PARTY": "MENA PROPERTY GROUP LTD",
+
+  "DEPOSIT_SCHEME_PROVIDER": "Deposit Protection Service",
+  "DEPOSIT_SCHEME_NAME": "DPS Custodial Scheme",
+  "DEPOSIT_SCHEME_ADMINISTRATOR": "The Deposit Protection Service",
+  "DEPOSIT_MEMBERSHIP_NUMBER": "1234567",
+  "DEPOSIT_CERTIFICATE_NUMBER": "DPS-987654",
+
+  "PERMITTED_OCCUPIERS": "None",
+  "SPECIAL_CONDITIONS": "None",
+
+  "RELEVANT_PERSON_NAME": "Not applicable",
+  "RELEVANT_PERSON_ADDRESS": "Not applicable",
+  "RELEVANT_PERSON_EMAIL": "Not applicable",
+  "RELEVANT_PERSON_PHONE": "Not applicable",
+
+  "DEPOSIT_SIGNATORY_CAPACITY": "Agent",
+  "OTHER_DOCUMENTS_GIVEN": "Building handbook, parking rules and move-in instructions"
+}
