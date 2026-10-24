@@ -33,10 +33,12 @@ This tool automates that process end-to-end.
 ## Usage
 
 ```bash
-python3 generate_contract.py your_data.json output.docx
+python3 generate_contract.py example_data.json output.docx
+python3 generate_contract.py your_data.json output.docx --template your_template.docx
 ```
 
-See `example_data.json` for the full list of fields the template expects.
+See `example_data.json` for the full list of fields the template expects. All names,
+addresses and the agent company in the example data and template are fictional.
 
 ## Example
 
@@ -51,7 +53,8 @@ Pure Python standard library (`zipfile`, `re`, `json`) — no external
 dependencies. Works directly on the `.docx` XML, so all original formatting,
 fonts, and styling are preserved exactly.
 
----
+## Notes
 
-*Built to eliminate manual data entry errors in a real estate agency's
-contract workflow.*
+- Built for a lettings workflow where every new tenancy previously meant hand-editing a Word contract.
+- The bundled template is a sample assured periodic tenancy agreement for England. It is provided to
+  demonstrate the tool and is not legal advice; check any agreement against current legislation before use.

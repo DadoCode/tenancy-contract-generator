@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-generate_contract.py — Fill the MENA Property Group tenancy agreement
-template with contract-specific data.
+generate_contract.py — Fill a tenancy agreement template (.docx) with
+contract-specific data from a JSON file.
 
 Usage:
     python generate_contract.py data.json output.docx
